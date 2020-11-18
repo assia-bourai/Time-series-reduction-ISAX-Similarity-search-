@@ -1,7 +1,7 @@
 # Time-series-reduction-ISAX-Similarity-search-
 
 
-This folders includes 5 files:
+This folders includes these files:
 - Rapport.pdf : the final project report
 - Product Quantization encoder : a notebook containing the summarization submitted solution
 - ISAX similarity search : a notebook containing the similarity search solution
